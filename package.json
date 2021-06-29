@@ -1,7 +1,6 @@
 {
   "name": "nlw-valoriza",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +9,16 @@
     "type": "git",
     "url": "git+https://github.com/JHAlbernaz/nlw-valoriza.git"
   },
-  "author": "JAlbernaz",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JHAlbernaz/nlw-valoriza/issues"
   },
-  "homepage": "https://github.com/JHAlbernaz/nlw-valoriza#readme"
+  "homepage": "https://github.com/JHAlbernaz/nlw-valoriza#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "typescript": "^4.3.4"
+  }
 }
